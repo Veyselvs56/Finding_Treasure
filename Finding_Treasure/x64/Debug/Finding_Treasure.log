@@ -1,0 +1,4 @@
+﻿  Kaynak.cpp
+C:\Users\veyse\source\repos\Finding_Treasure\Finding_Treasure\Kaynak.cpp(8,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\veyse\source\repos\Finding_Treasure\Finding_Treasure\Kaynak.cpp(17,9): warning C4101: 'starting_distance': yerel değişken başvurusu kaldırıldı
+  Finding_Treasure.vcxproj -> C:\Users\veyse\source\repos\Finding_Treasure\x64\Debug\Finding_Treasure.exe
